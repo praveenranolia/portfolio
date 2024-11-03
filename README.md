@@ -1,2 +1,6 @@
-# portfolio
-a portfolio
+# Data Scientist
+
+## Education
+Int. MSc. Physics
+## Work Experience
+
