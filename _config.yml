@@ -1,2 +1,5 @@
 title : Praveen Ranolia
 theme: jekyll-theme-minimal
+include:
+-assets/css/darkmode.css
+
