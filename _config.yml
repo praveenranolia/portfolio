@@ -1,7 +1,15 @@
-title: Praveen Ranolia
-theme: jekyll-theme-minimal
-logo: assets/photo.jpeg 
+# title: Praveen Ranolia
+# theme: jekyll-theme-minimal
+# logo: assets/photo.jpeg 
 
-# Include custom CSS files
-include:  
-  - assets/css/darkmode.css
+# # Include custom CSS files
+# include:  
+#   - assets/css/darkmode.css
+title: Praveen Ranolia
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark # or auto if you want it to switch with your system settings.
+
+
