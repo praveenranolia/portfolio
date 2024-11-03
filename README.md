@@ -1,11 +1,11 @@
 # Data Scientist
 #### Skills
-Programming languages: Python, SQL, Power BI
-Libraries and Tools: Sklearn, PyTorch, Pandas, Numpy, Matplotlib
+Programming languages: Python, SQL, Power BI  
+Libraries and Tools: Sklearn, PyTorch, Pandas, Numpy, Matplotlib  
 Courses/Certificates: Machine Learning with Python, Probability -MITx[audit], Data Analysis with Python -
-jovian.ml
-## Education
-BS-MS Physics | Indian Institute of Technology Roorkee (2018-2023)
+jovian.ml  
+## Education  
+BS-MS Physics | Indian Institute of Technology Roorkee (2018-2023)  
 12th| CBSE Board (2016-2017)
 ## Work Experience
 **Associate Professor, Physics (June 2023 - Aug 2024)**
