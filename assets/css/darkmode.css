@@ -1,0 +1,17 @@
+/* dark-mode.css */
+
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+a {
+    color: #bb86fc;
+}
+
+header, footer, nav {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+}
+
+/* Customize other elements as needed */
