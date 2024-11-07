@@ -21,9 +21,8 @@ frontend part, multiple dynamic and browser-compatible pages using HTML, CSS, an
 
 ## Projects  
 **Rossmann store sales**  
-![rosemann](https://github.com/user-attachments/assets/dc89adc4-05ea-426a-8a3c-cd2be8bb753a)
-
--Used feature engineering,scaling for data 
+![rosemann copy](https://github.com/user-attachments/assets/a2dc835b-5783-4558-9111-e5d21209cd0b)
+-Applied feature engineering on the data | used K fold cross validation tuned best hyperparameter for GBM  
 
 
 
