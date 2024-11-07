@@ -35,8 +35,8 @@ solar flares on these species.
 
 **Classification of Higgs boson using different machine learning models | Electrical Department, IIT Roorkee**  
 ***(August 2020 - Feb 2021)***      
--Analysed the data sets of Atlas experiment of Large Hydrogen collider, CERN. Used scaling and imputation techniques on Data.
-- Used PCA for feature reduction, Tuned the best hyper-parameters for SVM and MLP to classify the Higgs boson
+-Analysed the data sets of Atlas experiment of Large Hydrogen collider, CERN. Used scaling and imputation techniques on Data. 
+-Used PCA for feature reduction, Tuned the best hyper-parameters for SVM and MLP to classify the Higgs boson
 decay into tau-tau decay(signal) and background noise.
 
 ## EXTRACURRICULAR  
@@ -49,7 +49,7 @@ camp, Inspire initiative, LED distribution camp etc.
 **Manager | Winter School, IIT Roorkee**  
 ***December 2019 - January 2020***  
 -Worked in promotion and sponsorship vertical | organised various conferences and guest lectures.  
-**Caded | National Caded Corps, IIT Roorkee**
+**Caded | National Caded Corps, IIT Roorkee**  
 ***(August 2018 - May 2019)***
 -Actively participated in the Guard of Honour parade on Independence Day 2018 and field firing practices.
 
