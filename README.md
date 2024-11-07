@@ -14,6 +14,7 @@ BS-MS Physics | Indian Institute of Technology Roorkee (2018-2023)
 including setting original questions and redesigning theoretical concepts.  
 -Conducted regular classes for four batches of Class 11 and 12, with responsibilities including the design of
 assignments and quizzes to support student learning.  
+
 **Web Development, Internship @ INDOCARE HEALTHCARE LLP**  
 ***(May 2022 - July 2022)***  
 -Developed different components of a website, encompassing design, coding, testing, and maintenance. Designed
@@ -22,7 +23,7 @@ frontend part, multiple dynamic and browser-compatible pages using HTML, CSS, an
 ## Projects  
 **Rossmann store sales**  
 ![rosemann copy](https://github.com/user-attachments/assets/a2dc835b-5783-4558-9111-e5d21209cd0b)  
--Applied feature engineering on the data | used K fold cross validation tuned best hyperparameter for GBM  
+-Applied feature engineering on the data | used K fold cross validation tuned best hyperparameter for GBM models for the predictions of sales of Rossmann store.  
 
 
 
@@ -46,10 +47,12 @@ decay into tau-tau decay(signal) and background noise.
 Implemented waste segregation management practices in the village.  
 -Worked with a team of 40 members to organise various camps and initiatives like cattle vaccination camp, infant healthcare
 camp, Inspire initiative, LED distribution camp etc.  
+
 **Manager | Winter School, IIT Roorkee**  
 ***December 2019 - January 2020***  
 -Worked in promotion and sponsorship vertical | organised various conferences and guest lectures.  
 **Caded | National Caded Corps, IIT Roorkee**  
+
 ***(August 2018 - May 2019)***
 -Actively participated in the Guard of Honour parade on Independence Day 2018 and field firing practices.
 
