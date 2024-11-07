@@ -51,8 +51,8 @@ camp, Inspire initiative, LED distribution camp etc.
 **Manager | Winter School, IIT Roorkee**  
 ***December 2019 - January 2020***  
 -Worked in promotion and sponsorship vertical | organised various conferences and guest lectures.  
-**Caded | National Caded Corps, IIT Roorkee**  
 
+**Caded | National Caded Corps, IIT Roorkee** 
 ***(August 2018 - May 2019)***
 -Actively participated in the Guard of Honour parade on Independence Day 2018 and field firing practices.
 
