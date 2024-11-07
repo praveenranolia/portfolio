@@ -35,7 +35,7 @@ solar flares on these species.
 
 **Classification of Higgs boson using different machine learning models | Electrical Department, IIT Roorkee**  
 ***(August 2020 - Feb 2021)***      
--Analysed the data sets of Atlas experiment of Large Hydrogen collider, CERN. Used scaling and imputation techniques on Data. 
+-Analysed the data sets of Atlas experiment of Large Hydrogen collider, CERN. Used scaling and imputation techniques on Data.  
 -Used PCA for feature reduction, Tuned the best hyper-parameters for SVM and MLP to classify the Higgs boson
 decay into tau-tau decay(signal) and background noise.
 
