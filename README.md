@@ -20,6 +20,12 @@ assignments and quizzes to support student learning.
 frontend part, multiple dynamic and browser-compatible pages using HTML, CSS, and other frameworks.  
 
 ## Projects  
+**Rossmann store sales**  
+-Used feature engineering,scaling for data 
+
+
+
+
 **Investigation of Mars Atmosphere using Various Satellite-based Measurements,Physics Department, IIT Roorkee**  
 ***June 2022 - May 2023***  
 -Analyzed NASA’s MAVEN payload data using Python and various data visualization libraries.  
