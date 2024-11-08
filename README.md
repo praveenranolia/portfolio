@@ -1,7 +1,7 @@
 # Data Scientist
 ## Skills  
 ***Programming languages***: Python, SQL, Power BI  
-***Libraries and Tools***: Sklearn, PyTorch, Pandas, Numpy, Matplotlib  
+***Libraries and Tools***: Sklearn, PyTorch, Pandas, Numpy, Matplotlib, Excel  
 ***Courses/Certificates***: Machine Learning with Python, Probability -MITx[audit], Data Analysis with Python -
 jovian.ml     
 ## Education    
