@@ -1,6 +1,6 @@
 # Data Scientist
-##Contact me  
-[Email](mailto:praveenranolia11@gmail.com)              [linkedin](https://www.linkedin.com/in/praveen-ranolia-78577a202/)  
+## Contact me  
+[Email](mailto:praveenranolia11@gmail.com) &nbsp;&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/praveen-ranolia-78577a202/)  
 ## Skills  
 ***Programming languages***: Python, SQL, Power BI  
 ***Libraries and Tools***: Sklearn, PyTorch, Pandas, Numpy, Matplotlib, Excel  
