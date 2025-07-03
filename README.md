@@ -10,9 +10,10 @@ jovian.ml
 BS-MS Physics | Indian Institute of Technology Roorkee (2018-2023)  
 12th| CBSE Board (2016-2017)
 ## Work Experience  
-**Business Analyst, Lamar Ceramics
+**Business Analyst, @Lamar Ceramics**
 ***(December 2024 -Present)***
 Developed a web app dashboard with an  end-to-end ETL pipeline to deliver real-time company business insights.
+**Associate Professor, Physics @ FIITJEE,DELHI**  
 ***(June 2023 - Aug 2024)***  
 -Designed a specialised module for students preparing for the Indian National Junior Science Olympiad (INJSO),
 including setting original questions and redesigning theoretical concepts.  
