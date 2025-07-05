@@ -1,0 +1,20 @@
+/* dark-mode.css */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode a {
+  color: #80cbc4;
+}
+
+body.dark-mode header,
+body.dark-mode footer {
+  background-color: #1f1f1f;
+}
+
+body.dark-mode pre,
+body.dark-mode code {
+  background-color: #333;
+  color: #fff;
+}
