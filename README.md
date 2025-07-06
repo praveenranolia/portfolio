@@ -62,11 +62,7 @@ camp, Inspire initiative, LED distribution camp etc.
 **Caded | National Caded Corps, IIT Roorkee** 
 ***(August 2018 - May 2019)***
 -Actively participated in the Guard of Honour parade on Independence Day 2018 and field firing practices.
-<button onclick="toggleDarkMode()" style="position: fixed; top: 1rem; right: 1rem; z-index: 999;">
-  🌓
-</button>
 
-<script src="assets/js/dark-toggle.js"></script>
 <link rel="stylesheet" href="assets/css/dark-mode.css">
 
 
