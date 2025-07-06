@@ -5,12 +5,3 @@ body.dark-mode * {
 }
 
 /* But allow headings and strong text to stay white */
-body.dark-mode h1,
-body.dark-mode h2,
-body.dark-mode h3,
-body.dark-mode h4,
-body.dark-mode h5,
-body.dark-mode h6,
-body.dark-mode strong {
-  color: #ffffff !important;
-}
