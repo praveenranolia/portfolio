@@ -67,6 +67,7 @@ camp, Inspire initiative, LED distribution camp etc.
 </button>
 
 <script src="assets/js/dark-toggle.js"></script>
+<link rel="stylesheet" href="assets/css/dark-mode.css">
 
 
 
