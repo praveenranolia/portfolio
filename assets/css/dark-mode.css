@@ -1,7 +1,94 @@
-/* In dark mode, override ALL text colors that are too dark with cyan-like color */
-body.dark-mode,
-body.dark-mode * {
-  color: #80cbc4 !important;
+/**
+ * Dark Mode Toggle Styles
+ * For Jekyll Minimal Theme (GitHub Pages)
+ * Switches black/dark text to light and vice versa
+ */
+
+/* Default (Light Mode) */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #24292e; /* GitHub's default dark text */
+  --header-footer-bg: #f8f8f8;
+  --link-color: #0366d6;
+  --link-hover-color: #1f6feb;
+  --code-bg: #f6f8fa;
+  --code-text: #24292e;
+  --border-color: #e1e4e8;
 }
 
-/* But allow headings and strong text to stay white */
+/* Dark Mode */
+body.dark-mode {
+  --bg-color: #121212; /* Dark background */
+  --text-color: #e0e0e0; /* Soft white for readability */
+  --header-footer-bg: #1f1f1f;
+  --link-color: #58a6ff; /* GitHub's dark mode link color */
+  --link-hover-color: #79b8ff;
+  --code-bg: #2d2d2d;
+  --code-text: #f8f8f2;
+  --border-color: #444;
+}
+
+/* Apply Variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+}
+
+header, footer {
+  background-color: var(--header-footer-bg);
+  border-color: var(--border-color);
+}
+
+pre, code {
+  background-color: var(--code-bg);
+  color: var(--code-text);
+  border: 1px solid var(--border-color);
+}
+
+/* Force dark mode for common elements */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6,
+body.dark-mode p,
+body.dark-mode li,
+body.dark-mode blockquote,
+body.dark-mode table,
+body.dark-mode th,
+body.dark-mode td {
+  color: var(--text-color);
+}
+
+/* Fix GitHub Markdown styles in dark mode */
+body.dark-mode .markdown-body {
+  color: var(--text-color);
+}
+
+body.dark-mode .markdown-body pre {
+  background-color: var(--code-bg);
+}
+
+/* Toggle Switch Styling (Optional) */
+.theme-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+.theme-toggle i {
+  font-size: 1.5rem;
+}
